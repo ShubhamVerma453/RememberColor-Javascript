@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(59, 59, 59);
+    text-align: center;
+    color: yellow;
+}
+h1{
+    font-size: 3rem;
+    padding: 2rem 0;
+}
+.box{
+    height: 90px;
+    width: 90px;
+    display: inline-block;
+    margin: 1%;
+    border: 10px solid rgb(126, 126, 125);
+    border-radius: 30%;
+}
+#red{
+    background-color: red;
+}
+#green{
+    background-color:chartreuse;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color:deepskyblue;
+}
+.disappear{
+    opacity: .3;
+}
+.reset{
+    background-color: red;
+}
